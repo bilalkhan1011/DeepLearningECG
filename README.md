@@ -2,6 +2,6 @@
 
 
 ## Introduction
-This project explores the Physionet 2017 ECG dataset and prepares it for interpretation by a deep learning algorithm. 
+This project explores popular ECG datasets and prepares them for interpretation by several deep learning algorithm. 
 
 The code can be found in the python notebook above and is being updated.
